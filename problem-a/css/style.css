@@ -3,4 +3,5 @@ b {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     line-height: 1.5;
     max-height: 400px;
+    .elders {color: red;}
 }
