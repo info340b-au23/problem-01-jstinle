@@ -24,7 +24,7 @@
 
   ● Used test-driven development › Used Jest to pre-test code, saved in `pretest.txt`
 
-    ENOENT: no such file or directory, open '/Users/justinle/Documents/SCHOOL/INFO340/Problem-sets/problem-01-jstinle/problem-a/pretest.txt'
+    ENOENT: no such file or directory, open '/Users/justinle/Documents/SCHOOL/INFO340/problem-01-jstinle/problem-a/pretest.txt'
 
       17 |   test('Used Jest to pre-test code, saved in `pretest.txt`', () => {
       18 |     const path = __dirname + '/pretest.txt'
